@@ -6,7 +6,7 @@ class Test
 {
     public function execute()
     {
-        echo 'this is a test. ';
+        echo 'Arlong的Composer包';
     }
 
     public function getConfig()
